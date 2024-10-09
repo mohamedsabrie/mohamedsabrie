@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mohamed-sabry-portfolio.vercel.app/](https://mohamed-sabry-portfolio.vercel.app/)
 
-- 💬 Ask me about **react and Next js**
+- 💬 Ask me about **React and Next js**
 
 - 📫 How to reach me **abosaadmohamed@gmail.com**
 
